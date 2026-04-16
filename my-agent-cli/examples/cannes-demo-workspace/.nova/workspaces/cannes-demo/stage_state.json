@@ -1,0 +1,9 @@
+{
+  "stages": {
+    "slate": "done",
+    "package": "ready",
+    "finance": "locked",
+    "comply": "locked",
+    "launch": "locked"
+  }
+}

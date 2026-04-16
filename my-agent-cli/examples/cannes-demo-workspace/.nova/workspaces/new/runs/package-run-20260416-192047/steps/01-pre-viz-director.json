@@ -1,0 +1,11 @@
+{
+  "step_number": 1,
+  "agent_id": "package-run-20260416-192047-pre-viz-director",
+  "agent_name": "Pre-Viz Director",
+  "status": "completed",
+  "started_at": "2026-04-16T19:20:47.747988+00:00",
+  "finished_at": "2026-04-16T19:20:59.193490+00:00",
+  "duration_seconds": 11,
+  "output_summary": "Pre-Viz Director completed (11564 chars).",
+  "approval_required": false
+}

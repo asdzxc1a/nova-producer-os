@@ -1,0 +1,7 @@
+**/target
+**/node_modules
+**/.git
+**/.nova
+**/dist
+nova-producer-os-web/frontend/
+my-agent-cli/rust/target/

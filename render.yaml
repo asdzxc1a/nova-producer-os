@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: nova-producer-os-api
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: PORT
+        value: "3001"
+      - key: WORKSPACE_ROOT
+        value: "/data"
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: "gemini-2.5-flash-lite"
+      - key: FRONTEND_URL
+        value: "https://frontend-mu-three-98.vercel.app"
+    disk:
+      name: nova-data
+      mountPath: /data
+      sizeGB: 1

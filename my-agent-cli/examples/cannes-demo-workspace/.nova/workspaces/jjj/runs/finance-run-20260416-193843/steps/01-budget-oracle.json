@@ -1,0 +1,11 @@
+{
+  "step_number": 1,
+  "agent_id": "finance-run-20260416-193843-budget-oracle",
+  "agent_name": "Budget Oracle",
+  "status": "completed",
+  "started_at": "2026-04-16T19:38:43.365977+00:00",
+  "finished_at": "2026-04-16T19:38:43.623063+00:00",
+  "duration_seconds": 0,
+  "output_summary": "Budget Oracle completed (341 chars).",
+  "approval_required": false
+}

@@ -1,0 +1,26 @@
+{
+  "name": "new",
+  "genre": null,
+  "budget_tier": null,
+  "target_rating": null,
+  "current_stage": "slate",
+  "stages": {
+    "slate": {
+      "status": "ready"
+    },
+    "launch": {
+      "status": "locked"
+    },
+    "package": {
+      "status": "locked"
+    },
+    "finance": {
+      "status": "locked"
+    },
+    "comply": {
+      "status": "locked"
+    }
+  },
+  "created_at": "2026-04-16T19:24:38.805895+00:00",
+  "workspace_root": "/Users/dmytrnewaimastery/Documents/CLAUDE CODE/Claude Code Project/my-agent-cli/examples/cannes-demo-workspace/.nova/workspaces/new"
+}

@@ -1,0 +1,11 @@
+{
+  "step_number": 1,
+  "agent_id": "comply-run-20260416-194444-compliance-officer",
+  "agent_name": "Compliance Officer",
+  "status": "completed",
+  "started_at": "2026-04-16T19:44:44.993515+00:00",
+  "finished_at": "2026-04-16T19:44:45.141143+00:00",
+  "duration_seconds": 0,
+  "output_summary": "Compliance Officer completed (350 chars).",
+  "approval_required": false
+}

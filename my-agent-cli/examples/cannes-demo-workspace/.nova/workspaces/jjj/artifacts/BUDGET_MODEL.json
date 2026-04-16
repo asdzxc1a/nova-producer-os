@@ -1,0 +1,3 @@
+{"burn_rate_per_week":125000,"categories":{"above_the_line":450000,"miscellaneous":500000,"post_production":350000,"production":1200000},"contingency":0.15,"currency":"USD","project_title":"jjj","risk_flags":["vfx_heavy"],"shooting_days":28,"total_budget":2500000}
+
+// Fallback due to error: Failed to send request to Gemini API: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=AIzaSyDUjbKlx7tbinMt0vQhh6kr4qNz3y3WM-4: status code 429

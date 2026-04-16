@@ -1,0 +1,46 @@
+{
+  "run_id": "slate-run-20260416-194341",
+  "run_type": "slate_analyze",
+  "status": "completed",
+  "steps": [
+    {
+      "step_number": 1,
+      "agent_id": "slate-run-20260416-194341-script-analyst",
+      "agent_name": "Script Analyst",
+      "status": "completed",
+      "started_at": "2026-04-16T19:43:41.648868+00:00",
+      "finished_at": "2026-04-16T19:43:49.328293+00:00",
+      "duration_seconds": 7,
+      "output_summary": "Script Analyst completed (7448 chars).",
+      "approval_required": false
+    },
+    {
+      "step_number": 2,
+      "agent_id": "slate-run-20260416-194341-budget-oracle",
+      "agent_name": "Budget Oracle",
+      "status": "completed",
+      "started_at": "2026-04-16T19:43:41.649284+00:00",
+      "finished_at": "2026-04-16T19:43:41.970482+00:00",
+      "duration_seconds": 0,
+      "output_summary": "Budget Oracle completed (338 chars).",
+      "approval_required": false
+    },
+    {
+      "step_number": 3,
+      "agent_id": "slate-run-20260416-194341-synthesizer",
+      "agent_name": "Synthesis Agent",
+      "status": "completed",
+      "started_at": "2026-04-16T19:43:49.344317+00:00",
+      "finished_at": "2026-04-16T19:43:50.618983+00:00",
+      "duration_seconds": 1,
+      "output_summary": "Synthesized SLATE_REPORT.md",
+      "approval_required": false
+    }
+  ],
+  "started_at": "2026-04-16T19:43:41.647255+00:00",
+  "finished_at": "2026-04-16T19:43:50.619134+00:00",
+  "artifact_names": [
+    "SLATE_REPORT.md"
+  ],
+  "metadata": {}
+}

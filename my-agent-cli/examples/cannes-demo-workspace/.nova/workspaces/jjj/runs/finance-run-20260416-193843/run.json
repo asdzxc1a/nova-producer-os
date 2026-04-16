@@ -1,0 +1,35 @@
+{
+  "run_id": "finance-run-20260416-193843",
+  "run_type": "finance_model",
+  "status": "completed",
+  "steps": [
+    {
+      "step_number": 1,
+      "agent_id": "finance-run-20260416-193843-budget-oracle",
+      "agent_name": "Budget Oracle",
+      "status": "completed",
+      "started_at": "2026-04-16T19:38:43.365977+00:00",
+      "finished_at": "2026-04-16T19:38:43.623063+00:00",
+      "duration_seconds": 0,
+      "output_summary": "Budget Oracle completed (341 chars).",
+      "approval_required": false
+    },
+    {
+      "step_number": 2,
+      "agent_id": "finance-run-20260416-193843-synthesizer",
+      "agent_name": "Synthesis Agent",
+      "status": "completed",
+      "started_at": "2026-04-16T19:38:43.635026+00:00",
+      "finished_at": "2026-04-16T19:38:44.824922+00:00",
+      "duration_seconds": 1,
+      "output_summary": "Synthesized BUDGET_MODEL.json",
+      "approval_required": false
+    }
+  ],
+  "started_at": "2026-04-16T19:38:43.365186+00:00",
+  "finished_at": "2026-04-16T19:38:44.825166+00:00",
+  "artifact_names": [
+    "BUDGET_MODEL.json"
+  ],
+  "metadata": {}
+}

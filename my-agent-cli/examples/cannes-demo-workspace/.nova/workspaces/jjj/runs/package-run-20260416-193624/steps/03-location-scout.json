@@ -1,0 +1,11 @@
+{
+  "step_number": 3,
+  "agent_id": "package-run-20260416-193624-location-scout",
+  "agent_name": "Location Scout",
+  "status": "completed",
+  "started_at": "2026-04-16T19:36:24.097170+00:00",
+  "finished_at": "2026-04-16T19:36:24.218403+00:00",
+  "duration_seconds": 0,
+  "output_summary": "Location Scout completed (343 chars).",
+  "approval_required": false
+}

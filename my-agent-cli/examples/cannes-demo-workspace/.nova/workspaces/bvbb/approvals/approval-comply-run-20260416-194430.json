@@ -1,0 +1,10 @@
+{
+  "approval_id": "approval-comply-run-20260416-194430",
+  "run_id": "comply-run-20260416-194430",
+  "step_number": 2,
+  "agent_name": "Compliance Officer",
+  "risk_summary": "EU AI Act disclosure missing for generative AI pre-viz.",
+  "status": "approved",
+  "created_at": "2026-04-16T19:44:30.468752+00:00",
+  "resolved_at": "2026-04-16T19:44:43.260945+00:00"
+}

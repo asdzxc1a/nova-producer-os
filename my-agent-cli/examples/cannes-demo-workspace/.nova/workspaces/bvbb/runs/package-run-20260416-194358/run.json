@@ -1,0 +1,57 @@
+{
+  "run_id": "package-run-20260416-194358",
+  "run_type": "package_build",
+  "status": "completed",
+  "steps": [
+    {
+      "step_number": 1,
+      "agent_id": "package-run-20260416-194358-pre-viz-director",
+      "agent_name": "Pre-Viz Director",
+      "status": "completed",
+      "started_at": "2026-04-16T19:43:58.791805+00:00",
+      "finished_at": "2026-04-16T19:44:13.802727+00:00",
+      "duration_seconds": 15,
+      "output_summary": "Pre-Viz Director completed (15136 chars).",
+      "approval_required": false
+    },
+    {
+      "step_number": 2,
+      "agent_id": "package-run-20260416-194358-casting-scout",
+      "agent_name": "Casting Scout",
+      "status": "completed",
+      "started_at": "2026-04-16T19:43:58.792045+00:00",
+      "finished_at": "2026-04-16T19:43:59.057029+00:00",
+      "duration_seconds": 0,
+      "output_summary": "Casting Scout completed (342 chars).",
+      "approval_required": false
+    },
+    {
+      "step_number": 3,
+      "agent_id": "package-run-20260416-194358-location-scout",
+      "agent_name": "Location Scout",
+      "status": "completed",
+      "started_at": "2026-04-16T19:43:58.792325+00:00",
+      "finished_at": "2026-04-16T19:43:59.057029+00:00",
+      "duration_seconds": 0,
+      "output_summary": "Location Scout completed (344 chars).",
+      "approval_required": false
+    },
+    {
+      "step_number": 4,
+      "agent_id": "package-run-20260416-194358-synthesizer",
+      "agent_name": "Synthesis Agent",
+      "status": "completed",
+      "started_at": "2026-04-16T19:44:13.817021+00:00",
+      "finished_at": "2026-04-16T19:44:15.047491+00:00",
+      "duration_seconds": 1,
+      "output_summary": "Synthesized PITCH_DECK.md",
+      "approval_required": false
+    }
+  ],
+  "started_at": "2026-04-16T19:43:58.791413+00:00",
+  "finished_at": "2026-04-16T19:44:15.047630+00:00",
+  "artifact_names": [
+    "PITCH_DECK.md"
+  ],
+  "metadata": {}
+}
