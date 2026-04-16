@@ -2,6 +2,9 @@
 FROM rust:1.85-slim AS builder
 WORKDIR /app
 
+# Copy workspace root manifest and lockfile first
+COPY my-agent-cli/rust/Cargo.toml my-agent-cli/rust/Cargo.lock* /app/my-agent-cli/rust/
+
 # Copy shared crates first (better layer caching)
 COPY my-agent-cli/rust/crates/ /app/my-agent-cli/rust/crates/
 
